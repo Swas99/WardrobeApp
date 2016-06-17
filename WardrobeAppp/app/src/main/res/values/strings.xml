@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_text">Welcome to wardrobe app!\nAdd different set of tops and bottoms from gallery or using camera. Check out different combination immediately, anytime, anywhere and as many time as you want.\nClick below to get started..</string>
+    <string name="input_story"><u>Input story</u></string>
+
+    <string name="sample_story"><![CDATA[Gibbr is a hot new <adjective> app that lets you post updates from around you! Forget <plural-noun> groups, and Facebook events! Reach out to a wider network instantaneously! Vote, <noun>, and reply to your favourite feeds from <adjective> you! Your local Gibbr community based on your geo location. Get on Gibbr now and be part of a thriving new <noun> social space!]]></string>
+    <string name="change_your_words"><u>Click to change your words</u></string>
+
+</resources>
